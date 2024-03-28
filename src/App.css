@@ -9,7 +9,9 @@
   flex-wrap: wrap;
   background-color: transparent;
 }
-
+body::-webkit-scrollbar {
+  display: none;
+}
 .dataCard {
   background-color: #efefef;
   border-radius: 0.5em;
