@@ -1,5 +1,4 @@
 .App {
-  height: 100vh;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -8,7 +7,7 @@
   align-content: center;
   gap: 2vw;
   flex-wrap: wrap;
-  background-color: #ddd;
+  background-color: transparent;
 }
 
 .dataCard {
